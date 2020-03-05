@@ -4,6 +4,8 @@ Applied Machine Learning
 
 ## TODOS
 
+Idea; Consumer disputed yes/or no... 
+
 *  Inlezen
 
 
